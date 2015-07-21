@@ -1,0 +1,33 @@
+{
+  "name": "urlurl",
+  "version": "1.0.0",
+  "description": "Node's core url module with username+password properties",
+  "author": "Good Eggs <open-source@goodeggs.com>",
+  "contributors": [
+    "Bob Zoller <bob@zoller.us>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "url"
+  ],
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goodeggs/urlurl.git"
+  },
+  "homepage": "https://github.com/goodeggs/urlurl",
+  "bugs": "https://github.com/goodeggs/urlurl/issues",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": ">=1.8.x",
+    "mocha": "~1.x.x",
+    "chai": "~1.x.x",
+    "mocha-sinon": "~1.x.x"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  }
+}
