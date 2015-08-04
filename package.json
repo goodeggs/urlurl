@@ -1,6 +1,6 @@
 {
   "name": "urlurl",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Node's core url module with username+password properties",
   "author": "Good Eggs <open-source@goodeggs.com>",
   "contributors": [
